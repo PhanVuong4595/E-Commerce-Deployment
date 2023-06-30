@@ -1,2 +1,6 @@
 # E-Commerce-Deployment
-E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
+setup fontend: 
+npx create-react-app frontend --template redux, 
+npm install -D tailwindcss postcss autoprefixer, 
+npx tailwindcss init -p
+
